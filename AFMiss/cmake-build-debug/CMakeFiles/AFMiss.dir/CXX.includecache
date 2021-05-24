@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/Thesis/AFMiss/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+time.h
+-
+thread
+-
+map
+-
+
